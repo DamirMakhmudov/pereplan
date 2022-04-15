@@ -1,5 +1,5 @@
 # pereplan server side
-Server side solution for pereplan
+Server side solution for Pereplan complany
 
 # architecture
 
