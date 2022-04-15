@@ -1,4 +1,3 @@
-
 /**
  * Return diffetent forms of input value: genitive, dative etc
 */
